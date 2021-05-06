@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Disalg in NJUCS.
+- 🌱 I’m currently learning consensus protocols in distributed systems.
+- 📫 How to reach me: [my email](huangbinyu000@outlook.com)
 <!--
 **BinyuHuang-nju/BinyuHuang-nju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
