@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Disalg in NJUCS.
+- 🔭 I’m currently working in Disalg in NJUCS.
 - 🌱 I’m currently learning consensus protocols in distributed systems.
 - 📫 How to reach me: my email(huangbinyu000@outlook.com)
 <!--
