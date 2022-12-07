@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working in Disalg in NJUCS.
 - 🌱 I’m currently learning consensus protocols in distributed systems.
+- 💬 Welcome to discuss about consensus algorithms, database systems with me.
 - 📫 How to reach me: my email(huangbinyu000@outlook.com)
 <!--
 **BinyuHuang-nju/BinyuHuang-nju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
